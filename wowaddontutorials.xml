@@ -1,9 +1,9 @@
 <Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://blizzard.com/wow/ui/ ../../FrameXML/UI.xsd">
-<Script File="tut1.lua"/>
-<Frame name="tut1" parent="UIParent">
+<Script File="wowaddontutorials.lua"/>
+<Frame name="wowaddontutorials" parent="UIParent">
   <Scripts>
-    <OnLoad function="tut1_OnLoad"></OnLoad>
-    <OnEvent function="tut1_OnEvent"></OnEvent>
+    <OnLoad function="wowaddontutorials_OnLoad"></OnLoad>
+    <OnEvent function="wowaddontutorials_OnEvent"></OnEvent>
   </Scripts>
 </Frame>
 </Ui>

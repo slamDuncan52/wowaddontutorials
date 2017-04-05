@@ -1,8 +1,8 @@
 ## Interface: 70200
-## Title: tut1
+## Title: wowaddontutorials
 ## Version: 1.0
 ## Notes: Simple GPS
 ## Author: datME
 
-tut1.lua
-tut1.xml
+wowaddontutorials.lua
+wowaddontutorials.xml
