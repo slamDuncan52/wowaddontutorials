@@ -1,5 +1,0 @@
-local Aggro_EventFrame = CreateFrame("Frame")
-Aggro_EventFrame:RegisterEvent("PLAYER_REGEN_DISABLED")
-Aggro_EventFrame:SetScript("OnEvent", function(self, event, ...) 
-          print("You got aggro!")
-            end)
